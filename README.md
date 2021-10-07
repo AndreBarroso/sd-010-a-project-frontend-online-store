@@ -11,14 +11,13 @@ A curiosidade aqui, fica pelo uso do local storage para a troca de informações
 
 ---
 
-## Habilidades Aplicadas
+## Habilidades 
 
-- Traballhar em um time usando metodologias ágeis de desenvolvimento
-- Utilização de Context API do React para gerenciar estado
-- Utilização do React Hook useState
-- Utilização do React Hook useContext
-- Utilizar do React Hook useEffect
-- Criação de Hooks customizados
+* Entender o que são Métodos Ágeis
+* Entender o que é Kanban
+* Entender o que é Scrum
+* Trabalhar em equipes utilizando Kanban ou Scrum de maneira eficaz
+* Praticar todas as habilidades desenvolvidas até agora no módulo de Front-End
 
 ---
 
